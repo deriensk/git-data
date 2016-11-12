@@ -1,0 +1,13 @@
+*.pyc
+*~
+__pycache__
+myvenv
+/static
+.DS_Store
+
+bin/
+include/
+lib/
+pip-selfcheck.json
+local/
+share/
